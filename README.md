@@ -1,5 +1,3 @@
-
-```markdown
 # Bundle & Save Product Options Web Page
 
 ![Bundle & Save](screenshots/cart.gif)
@@ -22,7 +20,7 @@ You can check out the live demo of the project [here](https://garimarajput748.gi
 
 1. Clone the repository to your local machine using the following command:
 
-```bash
+```
 git clone https://github.com/garimarajput748/proveway-task.git
 ```
 
