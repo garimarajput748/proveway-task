@@ -1,0 +1,24 @@
+Q1:What frontend technologies and frameworks have you worked on?
+Ans: I am familiar with a variety of front-end frameworks and technologies, including but not limited to HTML, CSS, 
+JavaScript, Sass, Bootstrap, and jQuery.
+
+Q2: Have you ever worked with Shopify or any other e-commerce platforms, or do you have any experience with them?
+Ans: I am aware of Shopify and other e-commerce platforms,like woo-commerce. But i didn't get any projects in 
+industry regarding e-commerce so i don't have industrial experience.
+
+Q3: On a scale of 1 to 10, how would you rate your proficiency in HTML, CSS, and JavaScript?
+Ans: 	HTML: 9/10
+	CSS: 9/10
+	JavaScript: 8/10
+
+Q4: Do you find any specific browser more challenging to work with than others, and how do you resolve browser compatibility issues?
+Ans: I don't find any specific browser more challenging to work with than others till now.
+
+
+Q5: Have you worked on projects where you had complete ownership of the project?
+Ans: I have created some websites for my learning in WordPress and take ownership of projects, including project 
+planning, development, testing, and deployment.
+
+Q6: Have you worked with any version control system like Git?
+Ans: Yes.
+
