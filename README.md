@@ -8,5 +8,5 @@ This is my submission for the Proveway Frontend Developer Position. Thank you fo
 
 == Screenshots ==
 
-1. ![Feedback Exchange Interface](screenshots/before-select.png)
-2. ![Career Growth Tracking Dashboard](screenshots/after-select.png)
+1. ![Before select](screenshots/before-select.png)
+2. ![After select](screenshots/after-select.png)
